@@ -2,7 +2,7 @@
 
 ## ResNet34 模型
 
-# ![ResNet 34 Model](images/ResNet 34.png)
+# ![ResNet34 Model](images/ResNet34.png)
 
 ## 模型结构框图
 
