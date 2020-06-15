@@ -6,7 +6,7 @@
 
 ## 模型结构框图
 
-![ResNet34](images/ResNet34.jpg)
+![ResNet34](images/ResNet.jpg)
 
 ![](images/resnet-architectures-34-101.png)
 
