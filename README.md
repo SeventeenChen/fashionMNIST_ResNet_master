@@ -62,5 +62,8 @@ CUDA_VISIBLE_DEVICE=0 python test.py
 
 - [ ] README.md in English
 
+## Reference
 
+- [1] [He, Kaiming, et al. "Deep residual learning for image recognition." *Proceedings of the IEEE conference on computer vision and pattern recognition*. 2016](https://ieeexplore.ieee.org/document/7780459/footnotes#footnotes)
 
+- [2] Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms. Han Xiao, Kashif Rasul, Roland Vollgraf. [arXiv:1708.07747](http://arxiv.org/abs/1708.07747)
